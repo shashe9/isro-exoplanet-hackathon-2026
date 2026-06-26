@@ -18,11 +18,11 @@ env/
 .DS_Store
 Thumbs.db
 
-# Large datasets
-data/
-outputs/
-models/
-cache/
+# Large datasets (repository root only)
+/data/
+/outputs/
+/models/
+/cache/
 
 # Python cache
 .pytest_cache/
